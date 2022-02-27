@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plant of paradise, being a sermon preached at St. Martin's in the Fields at the funeral of John-Goodhand Holt, the young son, onely child, and hopefull heir of Thomas Holt of Gristlehurst in the county of Lancaster Esq; March the 19th. 1659. / By R.M. Minister of S. Pet. P.W. Lond.</title>
+            <author>Mossom, Robert, d. 1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89350</idno>
+            <idno type="STC">Wing M2865</idno>
+            <idno type="STC">Thomason E1025_4</idno>
+            <idno type="STC">ESTC R208652</idno>
+            <idno type="EEBO-CITATION">99867580</idno>
+            <idno type="PROQUEST">99867580</idno>
+            <idno type="VID">168863</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89350)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168863)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1025[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plant of paradise, being a sermon preached at St. Martin's in the Fields at the funeral of John-Goodhand Holt, the young son, onely child, and hopefull heir of Thomas Holt of Gristlehurst in the county of Lancaster Esq; March the 19th. 1659. / By R.M. Minister of S. Pet. P.W. Lond.</title>
+                  <author>Mossom, Robert, d. 1679.</author>
+               </titleStmt>
+               <extent>[8], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.N,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.M. = Robert Mossam.</note>
+                  <note>Annotation on Thomason copy: "May 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168863:1" rendition="simple:additions"/>
+            <p>A PLANT OF PARADISE, Being A Sermon Preached at S<hi rend="sup">t.</hi>
+               <hi>Martin's</hi> in the Fields at the Funeral of <hi>JOHN-GOODHAND HOLT,</hi> The young Son, onely Child, and Hopefull Heir of <hi>THOMAS HOLT</hi> of
+<hi>Griſtlehurſt</hi> in the County of <hi>Lancaſter</hi>
+               <abbr>Eſq</abbr>
+            </p>
+            <p>
+               <hi>March</hi> the 19<hi rend="sup">th</hi>. 1659.</p>
+            <p>By <hi>R. M.</hi> Miniſter of S. <hi>Pet. P.W. Lond.</hi>
+            </p>
+            <q>
+               <p>Non amitti ſed praemitti videntur, quos non abſumptura mors ſed aeternitas receptura eſt.</p>
+               <bibl>
+                  <hi>S. Ambr. l. de exciſ. frut.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. N.</hi> 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168863:2"/>
+            <pb facs="tcp:168863:2"/>
+            <head>To the much Honour'd <hi>THOMAS HOLT</hi> 
+               <abbr>Eſq</abbr> and M<hi rend="sup">rs.</hi> 
+               <hi>ANNE HOLT,</hi> The mournfull Parents of the deceaſed Heire.</head>
+            <opener>
+               <salute>Worthy Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>E beſt adminiſters words of <hi>Comfort,</hi>
+               <note n="*" place="margin">Ordo conſo<g ref="char:EOLhyphen"/>lationis eſt moe<g ref="char:EOLhyphen"/>rendo prius lu<g ref="char:EOLhyphen"/>clui concorda<g ref="char:EOLhyphen"/>re emolliri de<g ref="char:EOLhyphen"/>bet animus ut afflicto congru<g ref="char:EOLhyphen"/>at, congruens inhaereat, inhae<g ref="char:EOLhyphen"/>rens trahat; nec ferrum ferro conjungi<g ref="char:EOLhyphen"/>tur, ſi non u<g ref="char:EOLhyphen"/>trinqúe
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccuſti<g ref="char:EOLhyphen"/>one ign<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s li<g ref="char:EOLhyphen"/>quetur. <hi>Greg. Mor.</hi>
+               </note> who firſt en<g ref="char:EOLhyphen"/>tertains a Sympathy of <hi>ſorrow;</hi> there being much of Conſolation in Compaſſion. And therefore<note n="†" place="margin">
+                  <hi>Rom 12 15.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, O quàm brevi ſermunculo to<g ref="char:EOLhyphen"/>tius religionis depinxit inſig<g ref="char:EOLhyphen"/>ne! —his ube<g ref="char:EOLhyphen"/>ribus mater Eccleſia loctat proficientes, nutrit perfectos— haec eſt mammilla compaſſionis, illa congratulationis. <hi>Bern. Serm. de B. Magd.</hi>
+               </note> 
+               <hi>to weep with them that weep,</hi> is not to encreaſe the Stream but cut the Channel, and ſo not heighten, but leſſen the floods of grief. What comforts then are adminiſtred you from the
+<hi>Pulpit,</hi> accept them commixt with tears over the <hi>Hearſe;</hi> a ſympathy in affliction being the ſu<g ref="char:EOLhyphen"/>reſt <pb facs="tcp:168863:3"/> teſtimony of affection. And what affection I have for the ſurvi<g ref="char:EOLhyphen"/>ving <hi>Parents,</hi> to ſay it, may ſeem in<g ref="char:EOLhyphen"/>ſinuation and flattery; but what af<g ref="char:EOLhyphen"/>fection I had for the deceaſed <hi>Son,</hi> not to ſay it, were to wrong his merit and his memory. Indeed my juſt eſteems of both, have made me yield to your preſſing importunity, for the <hi>Impreſſi<g ref="char:EOLhyphen"/>on</hi> of theſe
+<hi>Funeral Meditations;</hi> which I here Dedicate as a <hi>Memoriae ſacrum,</hi> to perpetuate the honour of his vertuous hopes, and your Paren<g ref="char:EOLhyphen"/>tal loves.</p>
+            <p>
+               <hi>Your Parental loves;</hi> not as to thoſe <hi>indulgentiae blandimenta,</hi> thoſe fond blandiſhments of a ſoftning indul<g ref="char:EOLhyphen"/>gence, which degenerate the ſpirits and effeminate the tempers of very many (otherwiſe) moſt generous <pb facs="tcp:168863:3"/> plants; no, for though I like not a
+<hi>Lucius Brutus's</hi> auſtere ſeverity, of whom it is ſaid, that<note n="*" place="margin">Valer Max. l. 5 c 8.</note> 
+               <hi>Exuit patrem ut conſulem ageret,</hi> he put off the bow<g ref="char:EOLhyphen"/>els of a Father, when he put on the gown of a Conſull, as if a good Pa<g ref="char:EOLhyphen"/>triote and a loving Father were in<g ref="char:EOLhyphen"/>conſiſtent. Though I like not this too auſtere ſeverity, yet I cannot but condemn that too
+<note n="*" place="margin">Mollis illa e<g ref="char:EOLhyphen"/>ducatio quam indulgentiam vocemus, ner<g ref="char:EOLhyphen"/>vos omnes &amp; meniis &amp; cor<g ref="char:EOLhyphen"/>poris frangit. Quintil. <g ref="char:V">Ʋ</g>na janua <hi>&amp;</hi> aditus eſt ad omne ſce<g ref="char:EOLhyphen"/>lus. Lipſ ep. <hi>7.</hi> Cent. <hi>1.</hi>
+               </note> ſoft indulgence, which hath laid the firſt ground to this Ages debauchery and diſſolute<g ref="char:EOLhyphen"/>neſſe, ſo infamouſly famous for thoſe monſtrous Births of <hi>Church</hi> and <hi>State</hi> Apoſtacy's.</p>
+            <p>But this is the commendation of your <hi>parental love,</hi> that it was accom<g ref="char:EOLhyphen"/>pany'd with the deſire and endea<g ref="char:EOLhyphen"/>vour of adorning your ſon with what was moſt <hi>lovely,</hi> the princi<g ref="char:EOLhyphen"/>ples <pb facs="tcp:168863:4"/> of a
+<hi>Chriſtian,</hi> the Inſtitutions of a <hi>Scholler,</hi> and the Accompliſh<g ref="char:EOLhyphen"/>ments of a <hi>Gentleman.</hi> Where<g ref="char:EOLhyphen"/>fore, this ſprouting Branch being cropt in the bloſſom of his age, it will remain, <hi>Cedro dignum,</hi> a record of Honourable fame, that you were the careful
+<hi>Parents</hi> of ſo hopeful a ſon, and he the hopeful <hi>ſon</hi> of ſo careful Parents. And to ſtop the cur<g ref="char:EOLhyphen"/>rent of your tears, look up to
+<hi>Paradiſe,</hi> raiſe your devotion to the Moun<g ref="char:EOLhyphen"/>taine of <hi>Sion,</hi> and there behold flou<g ref="char:EOLhyphen"/>riſhing in life, what you bewail as cropt by death, even the bloſ<g ref="char:EOLhyphen"/>ſoming Branch planted in <hi>Heaven;</hi> who, by how much he was the bet<g ref="char:EOLhyphen"/>ter ſon to you by ſo much he is the fitter ſoul for God; whoſe bleſſed communion of grace, and blisful com<g ref="char:EOLhyphen"/>munion <pb facs="tcp:168863:4"/> of glory, is the Divine ob<g ref="char:EOLhyphen"/>ject of his hearty prayers, whoſe De<g ref="char:EOLhyphen"/>votions anſwer his affections, in which he is</p>
+            <closer>
+               <salute>Dear and Honoured</salute>
+               <signed>Your faithfully devoted ſervant in Chriſt <hi>R. MOSSOM.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:168863:5"/>
+            <pb n="1" facs="tcp:168863:5"/>
+            <head>
+               <hi>A</hi> PLANT <hi>of</hi> PARADISE. A Sermon preached at
+<hi>St. Martins</hi> in the Fields; at the Funeral of <hi>John-Goodhand Holt,</hi> the young Son, one<g ref="char:EOLhyphen"/>ly Child, and hopeful Heir of <hi>Tho<g ref="char:EOLhyphen"/>mas Holt,</hi> of <hi>Griſtlehurſt</hi> in the County of <hi>Lancaſter,</hi>
+               <abbr>Eſq</abbr>. <hi>March</hi> the <hi>19. 1659.</hi>
+            </head>
+            <opener>
+               <salute>Honourable and Beloved,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N Conformity to that ancient pra<g ref="char:EOLhyphen"/>ctice of the <hi>Primitive Saints</hi> and the continued cuſtome of <hi>Chriſts Church,</hi> we are here met in this preſent Congrega<g ref="char:EOLhyphen"/>tion to perform the <hi>Funeral Rites</hi> due to the Body and the Memory of a Chriſtian Brother<note n="*" place="margin">viz. <hi>March</hi> 12. 1659.</note> lately deceaſed; even the young <hi>Heir</hi> and <hi>top-Branch</hi> of an Ancient <hi>Family,</hi> cropt by death in the bloſſom of his age, not exceed<g ref="char:EOLhyphen"/>ing the number of
+<hi>12.</hi> years.</p>
+            <p>
+               <pb n="2" facs="tcp:168863:6"/>Here, in a juſt Eulogy and Laudatory
+<hi>Commemoration</hi> of the <hi>Dead,</hi> I might ſpeak much to a vertuous
+<hi>Emulation</hi> of the <hi>Living;</hi> much of him who was but little, for that in<g ref="char:EOLhyphen"/>deed, little in him was much; even <hi>Scin<g ref="char:EOLhyphen"/>tillae gratiae,</hi> his ſparks were more then others flames; His ſeeds, then other's fruits; And therefore as <hi>Valerius</hi> juſtifies the honour done by the <hi>Roman Senate</hi> to <hi>Aemilius Lepidus</hi> when a boy, ſaying,<note n="*" place="margin">Valer. Max. lib. 3. c. 1.</note> 
+               <hi>Injuſtum eſſet cum Honori nondum Tempeſtiuum videri, qui jam Virtuti maturus fuiſſet;</hi> It had been un<g ref="char:EOLhyphen"/>juſt, if he who was ripe for
+<hi>Vertue,</hi> ſhould have been thought untimely for <hi>Honour;</hi> the like I may plead concerning the Deceaſed, it were injuſtice done Him,
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould he not re<g ref="char:EOLhyphen"/>ceive what is <hi>Honourable,</hi> having done what is <hi>Vertuous.</hi>
+            </p>
+            <p>True it is, Dignity of Birth with baſe<g ref="char:EOLhyphen"/>neſſe of minde, is like<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Epichar.</note> a Looking-glaſſe to him who hath loſt his ſight; the noble worth of
+<hi>Ancient Progenitours</hi> is preſented to <hi>Poſterity</hi> as a pattern of imitation, but ig<g ref="char:EOLhyphen"/>noble mindes do not ſee it, being ſullied with their Demerit.<note place="margin">Valer Max. l. 3. c. 5.</note> But this
+<hi>hopeful youth,</hi> was none of thoſe <hi>Nobilia Portenta,</hi> thoſe
+<pb n="3" facs="tcp:168863:6"/> Monſters of Nobility and Gentry; whoſe de<g ref="char:EOLhyphen"/>generate ſpirits diſgrace their Families. No, he was right of the number of thoſe
+<hi>Proſpera Parentum Vota</hi> Thoſe happy pledges of Pa<g ref="char:EOLhyphen"/>rental loves,<note n="*" place="margin">Quae efficiunt ut &amp; genuiſſe juvet &amp; gene<g ref="char:EOLhyphen"/>rare libeat <hi>Id. l. 5. c. 4.</hi>
+               </note> who make their <hi>birth</hi> a Joy, and their <hi>Number</hi> a delight.</p>
+            <p>Yet I muſt Remember, I am not here an <hi>O<g ref="char:EOLhyphen"/>ratour,</hi> but a
+<hi>Preacher,</hi> and my buſineſs is not a Panegyrick but a Sermon and I may not chuſe his <hi>Memory</hi> for my <hi>Text.</hi> Only thus far then; that I may bring ſome flowers to adorn his Hearſe, Let me preſent you the Bloſſoms this <hi>Branch</hi> did bear; And know, the fair bloſſoms of this hopefull branch, were from the Endowments of <hi>Nature,</hi> and the Gifts of <hi>Grace;</hi> the endowments of <hi>Nature,</hi> in a pliable diſpoſition, and a tractable ingeny; fit Metal for good Molds, fit Wax for good Impreſſions. The gifts of <hi>Grace,</hi> in a ſub<g ref="char:EOLhyphen"/>miſſive obſervance and modeſt humility; not otherwiſe compatible with his
+<hi>ſprightly Ge<g ref="char:EOLhyphen"/>nius,</hi> but as given him by the <hi>ſpirit of Grace.</hi> Which <hi>ſpirit of Grace,</hi> I doubt not, hath tranſplanted him from earth to heaven, from the Valley of tears to the Mountain of Joy, the ſtate and habitation of the Bleſſed.</p>
+            <p>
+               <pb n="4" facs="tcp:168863:7"/>True it is, his active ſpirit did promiſe a longer life, and therefore his <hi>Feaver</hi> ſo ſud<g ref="char:EOLhyphen"/>dain and ſo violent did rather <hi>crop</hi> then wi<g ref="char:EOLhyphen"/>ther this ſprouting <hi>Branch.</hi> So that, it will be a fit <hi>Decorum,</hi> if in the choice of our <hi>Text,</hi> we have reſpect to all theſe, his Fair Hopes, his Active Genius, his Violent Sickneſs, and his Preſent Happineſs; To this end, we will keep the <hi>Analogy</hi> of a <hi>Bloſſoming branch,</hi> ſuddenly
+<hi>cropt</hi> in its <hi>full ſap;</hi> yet not cropt eternally to wither, but <hi>Tranſplanted</hi> ever<g ref="char:EOLhyphen"/>laſtingly to Flouriſh, even to Flouriſh in the <hi>Paradiſe</hi> of God, and Mountain of Sion. Now for this, attend unto thoſe words of the Pro<g ref="char:EOLhyphen"/>phet, ſo ſeaſonable to the Occaſion, and ſo ſuitable to our Deſigne; even thoſe words in which God ſpeaks concerning <hi>Zerubbabel</hi> the tender ofſpring of <hi>Jehojachin,</hi> of him God ſpeaks in an apt <hi>Allegory,</hi> which gives us our intended
+<hi>Analogy,</hi> ſaying,</p>
+            <div type="part">
+               <pb n="5" facs="tcp:168863:7"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Ezek. c. 17. v. 22. Latter part.</hi>
+                     </bibl>
+                     <p>—I will crop off from the top of his young twiggs, a tender one; and will plant it upon an high mountain and eminent.</p>
+                  </q>
+               </epigraph>
+               <p>
+                  <seg rend="decorInit">T</seg>He Sacred Scriptures of the <hi>Prophets,</hi>
+                  <note place="margin">Introdu<g ref="char:EOLhyphen"/>ction.</note> deliver us much of the Evangelical doctrine of <hi>Chriſt,</hi> ſometimes more dark<g ref="char:EOLhyphen"/>ly ſhadowed, ſometimes more clearly illuſtrated, by Parables, Allego<g ref="char:EOLhyphen"/>ries, and the like Symbolical expreſſions; yea, as the ſpirit of truth doth<note n="*" place="margin">Pſal. 78.2.</note> 
+                  <hi>open the Mouth,</hi> ſo doth he fill the Eye with Parables; witneſs the Prophet <hi>Ezekiels</hi> ſo frequent Viſions; in which we have right<note n="†" place="margin">Eph. 3
+10.</note> 
+                  <hi>the manifold wiſdome of God;</hi> the manifold wiſdome, in being a wiſdome (as I may ſo ſay) of many folds, viz. the ſenſe and meaning of the Prophecies, ſometimes in the <hi>Letter,</hi> and ſometimes
+<hi>Moral;</hi> ſometimes in the <hi>Allegory,</hi> and ſometimes
+<hi>Anagogical.</hi>
+               </p>
+               <p>
+                  <pb n="6" facs="tcp:168863:8"/>Yet ſtill,<note n="*" place="margin">Ezek.
+1.16.</note> 
+                  <hi>one Wheel is within another,</hi> the latter interpretation accords with the former; And ſo, like the frame of the heavenly bodies, ſuch is the Interpretati<g ref="char:EOLhyphen"/>on of holy Scriptures; One involving, not oppoſing; One enfolding, not thwar<g ref="char:EOLhyphen"/>ting another; A ſweet <hi>Analogy</hi> and conſent there is, beyond that of the Caeleſtial <hi>Sphears,</hi> to a ſetting forth a more then <hi>Pythagorical</hi> Harmony of Divine Wiſdome &amp; Truth. Now, that we may the better in<g ref="char:EOLhyphen"/>terpret this portion of ſcripture, it is requi<g ref="char:EOLhyphen"/>ſite that we know what are the diverſe ſcri<g ref="char:EOLhyphen"/>pture-interpretations. And for this, ob<g ref="char:EOLhyphen"/>ſerve, that the Learned
+<hi>Commentators</hi> upon Sacred Writ (eſpecially <hi>Lyranus</hi> in the Pro<g ref="char:EOLhyphen"/>logue to his Commentaries) they give us a fourefold ſenſe of ſacred Scripture, Lite<g ref="char:EOLhyphen"/>ral, Allegorical, Morall, and Anagogi<g ref="char:EOLhyphen"/>call; all which
+<hi>Lyranus</hi> thus diſtinguiſheth in a <hi>Diſtick</hi> more agreeable to Theology then Poetry.</p>
+               <q>
+                  <l>Littera Geſta docet, quid credas Allegoria,</l>
+                  <l>Moralis quid agas, quid ſperes Anagogia.</l>
+               </q>
+               <p>
+                  <pb n="7" facs="tcp:168863:8"/>The <hi>Letter</hi> declares matters of fact, the <hi>Allegory</hi> myſteries of faith, the <hi>Morall</hi> do<g ref="char:EOLhyphen"/>ctrines of obedience, and the <hi>Anagogy</hi> ob<g ref="char:EOLhyphen"/>jects of hope. Thus in <hi>Gal. c.</hi>
+4. we have them expreſly from S. <hi>Paul,</hi> where he tells of
+<hi>Abraham</hi> having<note n="*" place="margin">Galat. 4.22.</note> 
+                  <hi>two ſons, the one by a bond-maid, the other by a free Woman,</hi> this is plain in the <hi>Letter;</hi> which Literal ſenſe ſayes the Apoſtle hath its
+<hi>Allegory,</hi>
+                  <note place="margin">ver. 24.</note> namely, that the <hi>two Mothers</hi> are by figure and repreſentation the <hi>two Teſtaments;</hi> and to this Allegorical ſenſe he adjoyns a <hi>Morall</hi> or Tropological ſaying,<note place="margin">ver. 29.</note> that <hi>as then, he who was born after the fleſh perſecu<g ref="char:EOLhyphen"/>ted him who was born after the ſpirit, even ſo it is now;</hi> And laſtly, to all theſe ſeveral ſenſes, the Literal, the Allegorical, and the Morall, the Apoſtle adds a fourth, which is that we name <hi>Anagogicall,</hi> in matters Heavenly and Eternall; when he ſayes,
+<hi>but Jeruſalem which is above is free,</hi>
+                  <note place="margin">ver.
+26.</note> 
+                  <hi>which is the Mother of us all.</hi>
+               </p>
+               <p>Yea, in the one word <hi>Jeruſalem</hi> does <hi>Gorran</hi> give the example,<note place="margin">
+                     <hi>Gorran. Com<g ref="char:EOLhyphen"/>ment.</hi> in Gal.
+4.</note> and that very aptly, of all fower; for that, according to ſacred Scripture, <hi>Hieruſalem,</hi> Hiſtorically <pb n="8" facs="tcp:168863:9"/> and in the letter, it is, <hi>Civitas terrena,</hi> the Earthly City; Tropologically and in the Moral it is <hi>Anima ſancta,</hi> the holy ſoule; In the Allegory it is <hi>Militans Eccleſia,</hi> the Militant Church; and in the Anagogy it is <hi>Caeleſtis Patria,</hi> the Heavenly country. For any other inſtance or example, we need go no farther then the words of the Text; where we have in one and the ſame ſen<g ref="char:EOLhyphen"/>tence, all thoſe ſeveral ſenſes Take we a full view of the words, <hi>I will crop off from the top of his young twiggs a tender one, and will plant it upon an high Mountain and emi<g ref="char:EOLhyphen"/>nent,</hi>
+               </p>
+               <p n="1">1. As for the <hi>Literal</hi> ſenſe of theſe words it is plain and familiar, that herein, we will give the <hi>Gardiner</hi> leave to be an Interpre<g ref="char:EOLhyphen"/>ter; and every Husbandman, with <hi>Amos,</hi> may be a Prophet.</p>
+               <p n="2">2. From the Letter then paſs we to the
+<hi>Allegory,</hi> which is this, That God would take <hi>Zerubbabel</hi> a tender twig of the family of <hi>Jehojachin,</hi>
+                  <note place="margin">
+                     <hi>Zerubabel</hi> was ſon to <hi>Sheal<g ref="char:EOLhyphen"/>tiel,</hi> and ſo Grandchild to <hi>Jehojachin.</hi> Mat. 1.12.</note> who was himſelf a Branch of that Royal Cedar the Houſe of <hi>David;</hi> and this <hi>tender one,</hi> God will ſo <hi>tollere</hi> as that he will <hi>extollere,</hi> ſo crop him off, as <pb n="9" facs="tcp:168863:9"/> to raiſe him up; planting him in the
+<hi>high Mountain</hi> of <hi>Jeruſalem,</hi> as an <hi>eminent</hi> Re<g ref="char:EOLhyphen"/>ſtorer of Iſrael; being a Prime Leader of the <hi>Jews</hi> out of Captivity,<note place="margin">Ez. 2.2.</note> conducting them from
+<hi>Babylon</hi> unto <hi>Sion.</hi>
+               </p>
+               <p>Thirdly, upon this ſenſe Allegoricall, there is yet a further ſenſe <hi>Anagogicall,</hi>
+                  <note place="margin">Heiron. Theodor.
+<hi>&amp;c.</hi>
+                  </note> (unleſs we will have it, with many Ex<g ref="char:EOLhyphen"/>poſitours, another, and that the chief, Allegory,) namely, that God would take Chriſt the <hi>Meſſias,</hi> who is called the <hi>Branch,</hi>
+                  <note place="margin">Zech. 6.12.</note> and the top-branch too of <hi>Da<g ref="char:EOLhyphen"/>vids</hi> Family; and him <hi>cropt off</hi> by Death, and that a <hi>violent Death,</hi>
+                  <note place="margin">Tenerum ex<g ref="char:EOLhyphen"/>cindam. Ar. Mon. Excer. pam. Syr. Int.
+<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Septuag. Magnificabe infantem. Chal. paraph.</note> he promiſeth ſo to preſerve from corruption, and reſtore from the Grave, as to <hi>plant</hi> him in the <hi>High Mountain</hi> of his Church,
+<hi>eminent</hi> in Grace and Glory, above all the inhabi<g ref="char:EOLhyphen"/>tants and habitations of the World.</p>
+               <p>Now Laſtly, what is ſpoken of Chriſt as the head, in the Allegorical or Anagogi<g ref="char:EOLhyphen"/>call ſenſe, may be applyed unto the faith<g ref="char:EOLhyphen"/>ful as the members, in a ſenſe <hi>Moral and Tropological;</hi> ay, and what is thus Genral<g ref="char:EOLhyphen"/>ly applyed to all believing <hi>Saints,</hi> may be more particularly applyed to this de<g ref="char:EOLhyphen"/>ceaſed <pb n="10" facs="tcp:168863:10"/> 
+                  <hi>Heir,</hi> the
+<hi>Top-branch</hi> of his Fathers houſe; <hi>cropt</hi> by Death in the Bloſſom of his age, whilſt <hi>tender</hi> and young; whom yet God in mercy, hath but removed, from an earthly inheritance to an Heavenly, tranſplanting him from this <hi>Lower valley</hi> of tears, the ſtate of the Church militant, to the <hi>higher mountain</hi> of Sion, the ſtate of the Church Triumphant; therein to en<g ref="char:EOLhyphen"/>joy that Bliſſe wich is infinite, and inhe<g ref="char:EOLhyphen"/>rit that Life which is Eternal.</p>
+               <p>
+                  <note place="margin">The Diviſion.</note>Now, in the Words thus interpreted and applyed, obſerve theſe 2 <hi>particulars;</hi> a preſent Subject of Lamentation and mour<g ref="char:EOLhyphen"/>ning; and a firm ground of conſolation and rejoycing.</p>
+               <p n="1">1. The <hi>preſent</hi> ſubject of lamentation and mourning; A cropping off the tender top-branch of a Goodly Cedar; the take<g ref="char:EOLhyphen"/>ing away by death the hopeful young Heire, of a worthy and ancient Family; ſo ſayes God, by his Prophet in the Mo<g ref="char:EOLhyphen"/>ral, <hi>I will crop off from the top of his young twigs, a tender one.</hi>
+               </p>
+               <p n="2">2. The <hi>firm Ground</hi> of conſolation and rejoycing, the happy tranſplanting this <pb n="11" facs="tcp:168863:10"/> tender Branch, into the Heavenly <hi>Paradiſe,</hi> the Mountain of <hi>Sion,</hi> high in Eternity, and eminent in Glory, thus, <hi>I will crop off from the top of his young twigs, a tender one; and will plant it upon an high mountain and eminent.</hi>
+               </p>
+            </div>
+            <div type="commentary">
+               <head>Method, Explication and Application.</head>
+               <p n="1">1.<note place="margin">Explication</note> The <hi>Preſent Subject</hi> of lamentation and mourning; <hi>I will crop off from the top of his young twigs, a tender one.</hi> Here ob<g ref="char:EOLhyphen"/>ſerve; we have a <hi>Branch,</hi> a top-Branch of the tree, one, and a <hi>tender one,</hi> not wi<g ref="char:EOLhyphen"/>thered or broken,<note place="margin">de medulla Cedri. Vulg. evertice Cordis. Arab. Interp.</note> but in its full ſap <hi>cropt off,</hi> and taken away; this the aſcent of degrees in the letter of the <hi>Parable</hi> and Allegorical repreſentation; which gives us this accent of ſorrow in the mean<g ref="char:EOLhyphen"/>ing of the
+<hi>Morall</hi> and <hi>Tropological</hi> inter<g ref="char:EOLhyphen"/>pretation, <hi>viz.</hi> That a Son and <hi>Heir,</hi> the laſt born of the Family, and firſt born of his Mother; a Childe, and an <hi>only Childe,</hi> in the <hi>bloſſom</hi> of his youth, and vigour of his ſtrength, not waſted with ſome ling<g ref="char:EOLhyphen"/>ring
+<pb n="12" facs="tcp:168863:11"/> Conſumption, nor lamed with ſome diſmal Diſaſter, but ſuddainly <hi>cut off</hi> by a moſt Acute diſeaſe; is taken away by the hand of God, from the <hi>Land of the living.</hi> But what ſaid I? taken away from the land of the Living! Ay, as to an Earh<g ref="char:EOLhyphen"/>ly and Mortal life, and that's our <hi>Grief;</hi> but yet with correction, not quite taken away, onely tranſplanted into a better Soile, that of an Heavenly and life-giving Im<g ref="char:EOLhyphen"/>mortality, which is our <hi>Comfort.</hi>
+               </p>
+               <p>Now, in <hi>Funeral</hi> Solemnities which re<g ref="char:EOLhyphen"/>ceive their birth from our Death, and had their riſe from Mans fall, Pleading their Antiquity from <hi>Abels</hi> Burial. (For if we will believe the <hi>Rabbins, Adam</hi> and <hi>Eve</hi> were chief <hi>Mourners</hi> for the Death of <hi>Abel</hi> an
+100. years; Ay, and his <hi>Pane<g ref="char:EOLhyphen"/>gyrick</hi> too, that, ſtill remaines in the laſt<g ref="char:EOLhyphen"/>ing records of Sacred Scripture; where the Holy Ghoſt tells us in a Ludatory Commemoration of his Sacrifice &amp; Righ<g ref="char:EOLhyphen"/>teouſneſſe, that
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>though he be dead he yet ſpeaketh.</hi>
+                  <note place="margin">Heb. 11.4.</note>) Now (I ſay) in theſe Funeral Solemnities, whether attending the eaſtern <hi>Pyle,</hi> or the weſtern
+<hi>Coffin,</hi> the <pb n="13" facs="tcp:168863:11"/> dolfulleſt mourning is in the obſequies of a deceaſed Son, ſuch a Son as is the Fa<g ref="char:EOLhyphen"/>thers hope and the Mothers joy, <hi>primoge<g ref="char:EOLhyphen"/>nitus &amp; unigenitus,</hi> the firſt born and the onely born.</p>
+               <p>Thus, thus the Prophet <hi>Zachary</hi> to ſet forth more lively, the ſorrows Poèni<g ref="char:EOLhyphen"/>tential, he does it moſt Pathetically moſt Emphatically by the ſorrows of a <hi>Funeral,</hi> when the humbled ſinner ſhall <hi>mourn,</hi>
+                  <note place="margin">
+                     <hi>Zech.</hi> 12.10.</note>
+                  <hi>as one mourneth for her onely Son;</hi> and ſhall be <hi>in bitterneſſe of Soul,</hi> as one that is in bitter<g ref="char:EOLhyphen"/>neſſe of ſorrow for his <hi>firſt born;</hi> and here then <hi>retreat we into our own boſomes, and let Conſcience ſpeak how much, or rather, how little, we have been acquainted with true Penitence;</hi> ſeeing the moanes of Penitence muſt be like the mournings for a Son, e<g ref="char:EOLhyphen"/>ven a Funeral ſorrow, yea like the mour<g ref="char:EOLhyphen"/>nings for an onely Son, and firſt born, which is the ſaddeſt ſorrow of all Fune<g ref="char:EOLhyphen"/>rals. And <hi>hinc illae lacrymae,</hi> this, oh this is the black cloud of <hi>mourning,</hi> which diſ<g ref="char:EOLhyphen"/>ſolves it ſelf into ſo many ſhowres of tears in the preſent <hi>Exequies.</hi>
+               </p>
+               <p>Whoſoever they be then <hi>(Beloved)</hi> that <pb facs="tcp:168863:12"/> either now do, or hereafter ſhall mourn for the loſs of a <hi>Son,</hi> let them conſider what mournings may be ſufficient for the loſs of a
+<hi>Soul;</hi> eſpecially, ſeeing by the devout Teares of prayer and Penitence the loſt ſoul may be recovered; but the loſt Son cannot be recalled,
+<q>
+                     <l>
+                        <note place="margin">Sophocles in Scyr.</note>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> &amp;c.</l>
+                  </q> Sayes the Grecian
+<hi>Sophocles;</hi> If we could with cry's recall, or moans recover the dead; O how precious were our <hi>tears!</hi> more rich then pearles,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Ibid.</note> more deſirable then gold, more Soveraignly reſtorative then <hi>Elixar</hi> it ſelf.</p>
+               <p>Wherefore let thoſe <hi>Parents</hi> whom Gods hand hath made Childleſs, eſpeci<g ref="char:EOLhyphen"/>ally in the loſs of a firſt born ſon, and hopeful Heire, let them make this holy uſe of their heavy affliction, even a peni<g ref="char:EOLhyphen"/>tent Humiliation. So ſhall their ſons death, further their Souls life, and a ſpiritual Communion, repaire the breach of a tem<g ref="char:EOLhyphen"/>poral ſeparation; and whom they have loſt for a while as to an earthly preſence
+<pb n="15" facs="tcp:168863:12"/> they ſhall enjoy for ever in an <hi>Heavenly</hi> fellowſhip; <hi>Father and Son, Mother and Child,</hi> all through an Obedience of Faith being made joynt heirs with Chriſt of the everlaſting inheritance; which <hi>Inheritance</hi> Chriſt hath purchaſed by his righteouſ<g ref="char:EOLhyphen"/>neſs, promis'd in his Goſpel, and gives full poſſeſſion of it, at his ſecond coming in Glory.</p>
+               <p>Which is that very thing adminiſters comfort here in ſorrow, to dry up the Tears of mourning; even the <hi>firm ground</hi> of conſolation in the Text; that, though God hath <hi>cropt off</hi> the <hi>Top-branch</hi> of the Family, a Son and Heir, <hi>tender</hi> and young; Yet he hath
+<hi>planted</hi> him in <hi>Paradiſe,</hi> the <hi>mountain</hi> of <hi>Sion, high</hi> in dignity, and <hi>emi<g ref="char:EOLhyphen"/>nent</hi> in glory; For ſo ſays God of
+<hi>Zerubba<g ref="char:EOLhyphen"/>bel</hi> in the Allegory appli'd by us to the <hi>deceaſed</hi> in the Moral, <hi>I will crop off from the top of his young twigs, a tender one, and will plant it upon an high mountain and emi<g ref="char:EOLhyphen"/>nent.</hi>
+               </p>
+               <p>This then our ſecond particular,<note place="margin">2. Part.</note> 
+                  <hi>The firm Ground</hi> of Conſolation and Rejoycing, I
+<hi>will plant it upon an high mountain and emi<g ref="char:EOLhyphen"/>nent.</hi> 
+                  <pb n="16" facs="tcp:168863:13"/> In which high mountain of Hea<g ref="char:EOLhyphen"/>venly Sion, the tranſplanted branch en<g ref="char:EOLhyphen"/>joys a perpetual <hi>Spring,</hi> without any re<g ref="char:EOLhyphen"/>turn of <hi>Autumn's</hi> falling leafe, or <hi>Winters</hi> nipping froſt; Neither does the <hi>Moon's</hi> motion meaſure out its moneths, or the <hi>Suns</hi> courſe determin its years, nor does the <hi>night</hi> preſs upon the <hi>day,</hi> to mask its light; but, to keep this Plant freſh and flouriſhing, the bright beams and ſweet influence of the <hi>Sun of Righteouſneſs</hi> are continually up<g ref="char:EOLhyphen"/>on it,<note place="margin">Malach. 4.2.</note> in the ſouls
+<hi>Beatifical</hi> Viſion of God in Chriſt.</p>
+               <p>It was of the earthly Sion that <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſaid it, and therefore much more to be ſaid of the Heavenly;<note place="margin">Pſal.
+87.3.</note> 
+                  <hi>Glorious things are ſpoken of thee, O thou City of God!</hi> ſome of thoſe Glorious things are ſpoken by <hi>S. Auguſtine,</hi>
+                  <note place="margin">S. Aug. de Civit. Dei.</note> that, in this City of Hea<g ref="char:EOLhyphen"/>venly Sion, <hi>Rex eſt Veritas, Lex charitas, pax felicitas, vita aeternitas;</hi> the <hi>King</hi> there<g ref="char:EOLhyphen"/>of is truth it ſelf, the <hi>law</hi> thereof is love it ſelfe, the <hi>Peace</hi> thereof is felicity it ſelf, and the
+<hi>life</hi> thereof is Aeternity it ſelfe. The whole bleſſedneſs and glory is ſuch, as <hi>Eye</hi> (mortal Eye) <hi>hath not ſeen,</hi>
+                  <note place="margin">1 Cor. 2.9.</note> 
+                  <hi>nor ear <pb n="17" facs="tcp:168863:13"/> heard, nor hath it entred into the heart of man to conceive.</hi>
+               </p>
+               <p>
+                  <hi>In cor hominis non aſcendit,</hi> ſo the Vulgar Latine, and that according to the Original Greek, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, it hath not
+<hi>gone up</hi> into the heart of man to conceive; The word is
+<hi>Emphati<g ref="char:EOLhyphen"/>call,</hi> to intimate, that they who have had the moſt lofty conceptions, the moſt raiſed devotions, the moſt elevated affections, even they, they have not been ſufficient to compriſe in their thoughts, or compre<g ref="char:EOLhyphen"/>hend in their deſires, <hi>the good things;</hi> the heavenly and the happy, the ſpiritual and eternal good things, <hi>which God hath pre<g ref="char:EOLhyphen"/>pared for them that love him.</hi>
+               </p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which he hath prepared, this hath its
+<hi>emphaſis</hi> too; not only made in the greatneſs of his power, or laid up in the riches of his grace, but even order'd too in the Councel of his will. So that the Bliſſe and Glory of <hi>Sion,</hi> is not to be conſider'd or conceiv'd, ſuch as befits pitti<g ref="char:EOLhyphen"/>full and poor <hi>man</hi> to receive, but ſuch as becomes ſo great and glorious a <hi>God</hi> to give.</p>
+               <p>
+                  <pb n="18" facs="tcp:168863:14"/>
+                  <note place="margin">S. Aug. de Ci<g ref="char:EOLhyphen"/>vit. Dei l.
+<hi>12.</hi>
+                  </note>And therefore, <hi>Fide non capitur, ſpe non attingitur, charitate non apprehenditur, deſi<g ref="char:EOLhyphen"/>deria &amp; vota tranſgreditur;</hi> It is not to be contain'd by faith, not compris'd by hope, nor comprehended by love; its height tranſcends our deſires, and its fulneſs out<g ref="char:EOLhyphen"/>vies our wiſhes; <hi>Acquiri poteſt, aeſtimari non poteſt,</hi> it may be attained in its enjoyment, it cannot be aeſtimated in its worth.</p>
+               <p>So that as <hi>S. Auguſtine</hi> divinely <hi>ſi in cor hominis non aſcendit, cor hominis illuc aſcendat;</hi> If the <hi>Bliſs of Sion,</hi> hath not gone up into the heart of man in his
+<hi>Comprehenſions</hi> of knowledge; let the Heart of man go up unto it, in the <hi>Contem<g ref="char:EOLhyphen"/>plations</hi> of Faith. And ſuch indeed is <hi>S. Bernards</hi> devotion when rais'd in con<g ref="char:EOLhyphen"/>templation;<note place="margin">Bern. Serm.</note> 
+                  <hi>O Beata Regio Deliciarum! ad quam ſuſpiro de valle lachrymarum;</hi> O bleſ<g ref="char:EOLhyphen"/>ſed Region of delights! after which I breath in ſighs, and long in deſires, whilſt I walk in this valley of tears.</p>
+               <p>O Bleſſed Region! In which alone is found this bliſsfull condition; <hi>Wiſdome</hi> without ignorance, <hi>memory</hi> without for<g ref="char:EOLhyphen"/>getfulneſs, <hi>Truth</hi> without falſity, <hi>Reaſon</hi>
+                  <pb n="19" facs="tcp:168863:14"/> without obſcurity, <hi>Fullneſs</hi> without ſcar<g ref="char:EOLhyphen"/>city, all joyous and glorious to <hi>Eternity.</hi> O Bleſſed region! in which alone is found this bliſsfull condition; <hi>Health</hi> without the leaſt Qualme of ſickneſs, <hi>Beauty</hi> with<g ref="char:EOLhyphen"/>out the leaſt black ſpot of uglineſs, <hi>Plenty</hi> without the leaſt pinch of want, <hi>Safety</hi> without the leaſt ſtart of fear, <hi>Glory</hi> with<g ref="char:EOLhyphen"/>out the leaſt foyle of ſhame, and <hi>Immorta<g ref="char:EOLhyphen"/>lity</hi> without the leaſt taint of corruption.</p>
+               <p>Here becauſe it is the mutual courteſy of contraries, the one to illuſtrate the o<g ref="char:EOLhyphen"/>ther; It Will the better ſet off our con<g ref="char:EOLhyphen"/>templations of <hi>Heavens</hi> happineſs, if we give you one meditation of <hi>Hells</hi> miſerie. Imagine we then a black <hi>Abyſſe</hi> of horrid darkneſs, in which black Abyſſe there is a burning <hi>Lake</hi> of ſcorching flames, and a na<g ref="char:EOLhyphen"/>ked man chain'd in the midſt of the burning
+<hi>Lake,</hi> with a <hi>Viper</hi> in his boſome gnawing his heart, and ſtinging his ſoule. Again Imagine, he ſtill frightfully hears the
+<hi>Di<g ref="char:EOLhyphen"/>vels</hi> and damned <hi>Ghoſts</hi> yelling and calling one upon another, to ſtrike, to rend, to lay on blows, to heap on coals, to pour on brim<g ref="char:EOLhyphen"/>ſtone. Do not theſe thoughts ſtartle your <pb n="20" facs="tcp:168863:15"/> ſoules? oh that they did awake your con<g ref="char:EOLhyphen"/>ſciences!</p>
+               <p>And yet this is not all, but further Imagine, that boyling brimſtone being poured upon his head, at once the heat ſcalds him, the ſmoak ſtifles him, and the ſtench choaketh him. Yea, Imagine him weeping and wailing, wringing his hands, gnaſhing his teeth, amazed with terrours, wearied with torments, and yet is there not the leaſt hope of <hi>eaſe</hi> or <hi>end. Dolores torquent animam, non extorquent, puniunt Corpus, non finiunt,</hi> ſayes <hi>Proſper</hi> right, the tormentors do not faint, the tormen<g ref="char:EOLhyphen"/>ted do's not fail; they are <hi>implacable</hi> in their malice, and he is immortal in his miſery He is alwayes in Death and yet can<g ref="char:EOLhyphen"/>not dye, he is ſtill periſhing and yet with<g ref="char:EOLhyphen"/>out all Period. <hi>O miſerable immortality! O immortal miſery!</hi>
+               </p>
+               <p>This, this is ſomething, and but ſome<g ref="char:EOLhyphen"/>thing of the doleful and direful eſtate of an <hi>impenitent</hi> wretch in <hi>infernal</hi> tor<g ref="char:EOLhyphen"/>ments: This, this is ſomething, and but ſomething of that dreadful doom of the <hi>withered Branch,</hi>
+                  <note place="margin">John 15.9. Heb. 6, 8.</note>
+                  <hi>whoſe end is, to be burned,</hi> even in the <hi>Abyſſe</hi> of Hell. Which <pb n="21" facs="tcp:168863:15"/> does the better ſet off the joyful bliſs of our
+<hi>Cropt Branch,</hi> whoſe end is to be planted even in the
+<hi>Paradiſe</hi> of Heaven; that <hi>mountain</hi> of Sion, <hi>high</hi> in dignity, and <hi>eminent</hi> in Glory; According to the <hi>moral</hi> of the Prophets <hi>Allegory;</hi> I <hi>will crop off from the top of his young twigs, a tender one, and will plant it upon an high mountain and eminent.</hi>
+               </p>
+               <p n="1">1. A twofold <hi>admonition,</hi> 1.<note place="margin">Applica<g ref="char:EOLhyphen"/>tion.</note> That in the Exequies of our Deceaſed friends we ſtill turn the ſtream into the right channel, our Funerall ſorrows, into <hi>Penitential</hi> mournings; and with our contrition of heart joyn we reformation of life <hi>Vitam Aeternam ſperas? vitam temporalem corrigas,</hi>
+                  <note place="margin">Petrarch. Dialog. <hi>122.</hi>
+                  </note> is a good hint which <hi>Petrarch</hi> gives us; Doſt thou, O man! hope for eternal Life? Why, then amend thy life Temporal; for what!<note place="margin">Luk. 16.8.</note> art thou not ſo <hi>wiſe in thy gene<g ref="char:EOLhyphen"/>ration?</hi> as therein to chuſe to thy ſelf what is good? Good wine, good chear, good cloths, good houſe, good lands, good aire &amp;c. and what! all good but thy ſelf? not conſider<g ref="char:EOLhyphen"/>ing, that <hi>thy ſelf</hi> being evil, all theſe in the end ſhall do thee no good. Think then
+<pb n="22" facs="tcp:168863:16"/> where is thy good heart, thy good <hi>Con<g ref="char:EOLhyphen"/>ſcience,</hi> thy good <hi>life,</hi> which alone will do thee good, when cropt off by Death; as preſerving in thee that Spiritual <hi>Sap,</hi> and quickning
+<hi>Grace</hi> from Chriſt, which ſhall fit thee for a <hi>Planting</hi> in the <hi>Paradiſe</hi> of God.</p>
+               <p n="2">
+                  <note place="margin">Philip. 4.5.</note>2. That of the
+<hi>Apoſtle; Let your mode<g ref="char:EOLhyphen"/>ration be known unto all men,</hi> by the reſtrain<g ref="char:EOLhyphen"/>ing and regulating your paſſions, as in Temporal affairs, ſo in your Funeral ſor<g ref="char:EOLhyphen"/>rows; and this upon the <hi>Apostles</hi> argu<g ref="char:EOLhyphen"/>ment,
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the Lord is at hand;</hi> at hand, if patient to reward you, if unpa<g ref="char:EOLhyphen"/>tient to puniſh you; if humbly <hi>patient</hi> and truely <hi>Penitent, the Lord is at hand,</hi> to bring you to your children, ay, and your chil<g ref="char:EOLhyphen"/>dren to you, in a bliſsful Communion of a bleſſed Reſurrection; but if repiningly <hi>impatient</hi> and careleſly
+<hi>impenitent,</hi> your children may come into your ſight but not into your enjoyment; you may indeed in the day of judgement behold them in joy, which yet will not be to your com<g ref="char:EOLhyphen"/>fort, but to the encreaſe of your Torment becauſe you ſhall not enjoy them; this <pb n="23" facs="tcp:168863:16"/> being the main part of
+<hi>Hells miſery,</hi> that the damned looſe all the parts of <hi>Heavens happineſs.</hi>
+               </p>
+               <p>Oh! conſider this, whoſoever thou art, that at any time here grieveſt for loſing an hopeful Heir; conſider, what will be they grief to looſe the Heavenly <hi>inheri<g ref="char:EOLhyphen"/>tance;</hi> if ſhut out from the communion of thy <hi>Son,</hi> becauſe thou haſt caſt off the Commands of thy
+<hi>Saviour;</hi> there being then no enjoyment of Heavenly bliſſe but in the communion of Holy Love.</p>
+               <p>True it is, as St. <hi>Hierome</hi> of his Dear and deceaſed
+<hi>Nepotian, Avulſa ſunt viſcera mea, &amp; non ſentiam?</hi> my very bow<g ref="char:EOLhyphen"/>els are rent from me and ſhall I not feel it? Thus, not to be ſenſibly affected with the loſs of a Son, and <hi>ſuch a ſon,</hi> as is here loſt, it were to put off the bowels and love of a Parent; and yet to be dejectedly af<g ref="char:EOLhyphen"/>flicted with the loſs, when ſo great is his Gain, is to caſt off the heart and faith of a <hi>Chriſtian.</hi> Wherefore know, that Love is but carnal, whoſe ſorrow is immoderate at a Funeral; for, whom we looſe in deaths <hi>diſſolution,</hi> we yet retain in the Churches
+<pb n="24" facs="tcp:168863:17"/> 
+                  <hi>Communion;</hi> and ſo the breach of nature is repaired by Grace, and what grace re<g ref="char:EOLhyphen"/>paires, Glory conſummates. Let not, oh! let not then your teares of immoderate grief, ſo blinde the eyes of your holy faith as not to ſee in the <hi>Comfort,</hi> what you be<g ref="char:EOLhyphen"/>lieve in the Article of your Creed, <hi>the Communion of Saints.</hi>
+               </p>
+               <p n="2">2. <hi>Exhortation.</hi> That, conſidering what we have heard of the <hi>Mountain</hi> of Sion, and State of the bleſſed; what we have heard ſpoken in praiſe, Chriſt hath gi<g ref="char:EOLhyphen"/>ven in promiſe, and ſhall be hereafter made good in reward;<note place="margin">St. Aug. de civit. Dei.</note> conſidering this, <hi>Vileſcant omnia quae habentur in terris,</hi> Let theſe earthly things be the objects of our holy contempt, not our hearty delight; Center we our ſouls upon Heaven, ſix we our aimes upon what is everlaſting, and will outlive the triumphs of Death. See the Emperour <hi>Justinian's</hi> Funeral, and that will tutour us to this inſtruction; ſee his <hi>Royal Pall</hi> a rare piece of <hi>Phrygian Arras,</hi>
+                  <note place="margin">Baron. ad Ann. Juſtin. <hi>39.</hi>
+                  </note> richly wrought with the lively Re<g ref="char:EOLhyphen"/>preſentations of vanquiſh't armies, con<g ref="char:EOLhyphen"/>quered Kings, Ruined Cities, captived <pb n="25" facs="tcp:168863:17"/> people; all theſe the <hi>Tropheys</hi> of his <hi>Tri<g ref="char:EOLhyphen"/>umphs,</hi> he delivers up as a Spoil to <hi>Death.</hi>
+               </p>
+               <p>Wherefore, moſt certainly he hath but a <hi>mean</hi> ſoul, who mounts no higher in his affections then to what is <hi>mortal.</hi> Look we up then, <hi>Groveling Mortals!</hi> look we up in our deſires and in our devotions, to <hi>Heaven our Countrey,</hi>
+                  <note place="margin">Heb.
+11.10.16.</note> to <hi>Jeruſalem our abi<g ref="char:EOLhyphen"/>ding City;</hi> There, there is the ſociety of Saints, the Communion of the Bleſſed. Dull ſouls! why do we not haſten to that Home? Know we not, that a <hi>glorious com<g ref="char:EOLhyphen"/>pany</hi> of Patriarchs and Prophets, of Kings and Prieſts, of Apoſtles and Evangeliſts; an <hi>whole army</hi> of valiant Martyrs, conſtant Confeſſors and devoted Virgins; yea <hi>a numberleſs multitude</hi> of Parents and Kin<g ref="char:EOLhyphen"/>dred, and Friends, and other holy Saints, all deſire and long for our coming?<note place="margin">S. Cypr. tract de mortal.</note> 
+                  <hi>de ſua incolumitate ſecuri, de noſtra ſalute ſoliciti,</hi> ſecure as to their own ſafety, but ſolicitous as to our ſalvation.</p>
+               <p>Why do we not then ſpeed our pace, in a quickned zeal of Holy Devotions and devout affections? Why do not we thus<note n="*" place="margin">1 Pet. 1.13.</note> 
+                  <hi>gird up the Loyns of our mind,</hi> and haſten,
+<pb n="26" facs="tcp:168863:18"/>
+                  <note n="†" place="margin">Ibid.</note> 
+                  <hi>ad horum conſpectum &amp; complexum venire,</hi> to come into their ſight and into their ſo<g ref="char:EOLhyphen"/>ciety, their Preſence and their Embraces? And this, to communicate in thoſe joys, and in that inheritance which is common to all. Here we are troubled to get Heirs for our inheritances, and to get inheri<g ref="char:EOLhyphen"/>tances for our Heirs; but in <hi>Heaven,</hi> there is one inheritance and all Heirs; and yet,
+<hi>non minuitur copiâ Poſſeſſorum,</hi>
+                  <note place="margin">S.
+<hi>Aug. in</hi> Pſal. 49.</note> 
+                  <hi>nec fit an<g ref="char:EOLhyphen"/>guſtior numeroſitate Cohaeredum;</hi> the number of Heirs does not leſſen the Inheritance, nor the multitude of Poſſeſſours ſtraiten the bounds of our Poſſeſſion;<note place="margin">Ibid.</note> No, <hi>Tanta eſt multis quanta eſt paucis,</hi>
+                  <note place="margin">Colloſſ. 1.12. Gen.
+3.24.</note> 
+                  <hi>tanta ſingulis quanta omnibus;</hi> The Inheritance of life is an <hi>Inheritance of light,</hi> and therefore, as is the light of the Sun, ſo is the life of Chriſt, as great to many as to few, and as much to each one as to all. To cloſe.</p>
+               <p n="3">3. <hi>Conſolation.</hi> O what comfort then muſt this needs be in the thoughts of the deceaſed! That he hath <hi>left</hi> us, but we have not <hi>loſt</hi> him; unleſs we firſt loſe our ſelves, our
+<hi>Souls;</hi> For in the Moun<g ref="char:EOLhyphen"/>tain of Sion it is that we ſhall find him, in
+<pb n="27" facs="tcp:168863:18"/> the <hi>Paradiſe</hi> of God it is that we ſhall meet him; unleſs like guilty <hi>Adam,</hi>
+                  <note place="margin">Gen. 3.24.</note> the <hi>Cheru<g ref="char:EOLhyphen"/>bims</hi> flaming ſword do keep us out; even Gods fiery wrath of avenging Juſtice ex<g ref="char:EOLhyphen"/>clude us from the ſociety of the bleſſed.</p>
+               <p>
+                  <hi>To ſhut up all then.</hi> This hopeful <hi>Branch,</hi> the deceaſed <hi>Heire</hi> was not cropt to be wither'd away, but to be
+<hi>Planted</hi> anew; and planted in the <hi>Mountain</hi> of Sion,
+<hi>high</hi> in dignity and <hi>eminent</hi> in Glory; and this, this is the great comfort in his mournfull Solemnity; which <hi>ſeaſonable Conſolation</hi> is adminiſtred from the Text, in its <hi>Morall Interpretation,</hi> the <hi>Letter</hi> whereof is this, I <hi>will crop off from the top of his young twiggs, a tender one; and will plant it upon an high Mountain and eminent.</hi>
+               </p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
